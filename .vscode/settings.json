@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.decorations.enabled": false,
+    "git.confirmSync": false,
+    "git.confirmEmptyCommits": false,
+    "git.detectSubmodules": false,
+    "git.enabled": false
+}
